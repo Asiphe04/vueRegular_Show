@@ -1,0 +1,51 @@
+{"employees":[
+    {
+        "id":"1",
+        "fullName":"Benson",
+        "job_title":"Founder",
+        "img":"https://i.postimg.cc/QCbHCJR2/benson-removebg-preview.png",
+        "job_desc":"A founder for the park who started the business in 2010"
+
+    },
+    {
+        "id":"2",
+        "fullName":"Rigby",
+        "job_title":"CEO",
+        "img":"https://i.postimg.cc/63FDRsNR/rigby-removebg-preview.png",
+        "job_desc":"Manages the business and makes decisons"
+
+    },
+    {
+        "id":"3",
+        "fullName":"Thomas",
+        "job_title":"Cleaner",
+        "img":"https://i.postimg.cc/VL8hcWsY/thomas-removebg-preview.png",
+        "job_desc":"Someone who make sure that the park is cleaned"
+
+    },
+    {
+        "id":"4",
+        "fullName":"Pops",
+        "job_title":"Cleaner",
+        "img":"https://i.postimg.cc/FK7WxPpx/pops-removebg-preview.png",
+        "job_desc":"Someone who make sure that the park is cleaned"
+
+    },
+    {
+        "id":"5",
+        "fullName":"Muscle Man",
+        "job_title":"Cleaner",
+        "img":"https://i.postimg.cc/FzZVvcGR/muscle-man-removebg-preview.png",
+        "job_desc":"Someone who make sure that the park is cleaned"
+
+    },
+    {
+        "id":"6",
+        "fullName":"Skipps",
+        "job_title":"Cleaner",
+        "img":"https://i.postimg.cc/L8qLCrdh/skips-removebg-preview.png",
+        "job_desc":"Someone who make sure that the park is cleaned"
+
+    }
+]
+}
