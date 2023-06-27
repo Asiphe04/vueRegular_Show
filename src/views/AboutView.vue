@@ -23,11 +23,12 @@
     computed:{
       employees(){
         return this.$store.state.employees
-      },
+      }
+    },
       mounted(){
         this.$store.dispatch("getEmployees")
       },
       components: {CardComp}
-    }
+   
   }
 </script>

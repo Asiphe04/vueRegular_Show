@@ -9,9 +9,15 @@ const routes = [
   },
   {
     path: "/about",
-    name: "about",
+    name: "employees",
 
     component: () => import("../views/AboutView.vue"),
+  },
+  {
+    path: "/employees/:id",
+    name: "employee",
+    component: () => import("../views/EmployeeView.vue"),
+    props: true,
   },
   {
     path: "/contact",
